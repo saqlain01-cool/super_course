@@ -1,2 +1,2 @@
-this is a test file for merge and conflict git example
+this is a test.txt file for merge and conflict git example
 my name is md saqlain ashraf
